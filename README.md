@@ -4,4 +4,3 @@
 ### Hey 👋, I'm Naka!
 
 - 🔭 Solutions Architect at Amazon based in São Paulo, Brazil.
-- ⚡ 4+ years of experience, currently working on Amazon Selling Partner API team.
